@@ -1,16 +1,16 @@
-# baby names - A DATA-DRIVEN APPROACH 
+# *baby names: A DATA-DRIVEN APPROACH*
 
-This code allows you to look at historical patterns in U.S. names.
+This code allows you to look at historical patterns in U.S. names.  Maybe you're trying to find a baby name.
 
 Two main features:
-1) For a given name or set of names, look at the popularity over time.
-2) For a given name, get a list of names with similar historical trends.
+
+  1. For a given name or set of names, look at the popularity over time.
+  2. For a given name, get a list of names with similar historical trends.
 
 ## Usage
 First run the download script, `download_data.sh`.
-Then explore baby names interactively.
+Then explore baby names interactively, like
 ```
-import names
 import names
 x = names.Names()
 x.viz('zelda')
