@@ -23,7 +23,7 @@ x.viz_similar('zelda')
 Data comes from the U.S. Social Security Administration, described at https://www.ssa.gov/oact/babynames/limits.html.  Download with `download_data.sh`.  ~20 MB unzipped.
 
 ## Examples
-Name similarity is based only on the L1 distance between (log) popularity curves, but it's able to pick up on a surprising amount of information.
+"Similarity" is based on historical popularity (L1 distance between log(share)) and is sensitive to a surprising amount of information.
 
 **Zelda** and other names from the early 20th century:
 <img src="https://github.com/rkeisler/babynames/blob/master/figs/ex1.png" width="1000px"/>
