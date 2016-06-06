@@ -1,4 +1,4 @@
-# *baby names: A DATA-DRIVEN APPROACH*
+# USA names
 
 This code allows you to look at historical patterns in U.S. names.  Maybe you're trying to find a baby name.
 
