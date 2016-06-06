@@ -25,14 +25,14 @@ Data comes from the U.S. Social Security Administration, described at https://ww
 ## Examples
 Name similarity is based only on the L1 distance between (log) popularity curves, but it's able to pick up on a surprising amount of information.
 
-**Zelda** and other names from the early 20th century.
+**Zelda** and other names from the early 20th century:
 <img src="https://github.com/rkeisler/babynames/blob/master/figs/ex1.png" width="1000px"/>
 
-**Traci** and other 1970s girl names ending in "i".
+**Traci** and other 1970s girl names ending in "i":
 <img src="https://github.com/rkeisler/babynames/blob/master/figs/ex2.png" width="1000px"/>
 
-**Geronimo** and other uncommon Spanish names.
+**Geronimo** and other uncommon Spanish names:
 <img src="https://github.com/rkeisler/babynames/blob/master/figs/ex3.png" width="1000px"/>
 
-**Noah** is surging.
+**Noah** is surging:
 <img src="https://github.com/rkeisler/babynames/blob/master/figs/ex4.png" width="1000px"/>
