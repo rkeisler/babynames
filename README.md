@@ -22,3 +22,12 @@ x.viz_similar('zelda')
 ## Data
 Data comes from the U.S. Social Security Administration, described at https://www.ssa.gov/oact/babynames/limits.html.  Download with `download_data.sh`.  ~20 MB unzipped.
 
+## Examples
+
+<img src="https://github.com/rkeisler/babynames/blob/master/figs/ex1.png" width="1000px"/>
+
+<img src="https://github.com/rkeisler/babynames/blob/master/figs/ex2.png" width="1000px"/>
+
+<img src="https://github.com/rkeisler/babynames/blob/master/figs/ex3.png" width="1000px"/>
+
+<img src="https://github.com/rkeisler/babynames/blob/master/figs/ex4.png" width="1000px"/>
